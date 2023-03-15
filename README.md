@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gakkiismywife，a 6 years developer.
+- 👋 Hi, I’m Jun，a 7 years developer.
 - 👀 I’m interested in php and golang
-- 🌱 I’m currently golang and c
+- 🌱 I’m currently golang and rust
 - 📫 email:gakkiismywife1@gmail.com
 
 I'm looking for a remote offer! Please contact me 🙇。
